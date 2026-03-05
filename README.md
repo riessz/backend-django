@@ -17,7 +17,7 @@
 
 ##  Sobre
 
-Descreva o seu projeto em linhas gerais.
+Sistema de controle de vagas de monitoria para professores e coordenadores da IBMEC.
 
 ---
 
